@@ -1,3 +1,3 @@
-print('Hello, Git! Again!!!')
+print('Hello, Git! Again!')
 def greet(name):
     \pass
